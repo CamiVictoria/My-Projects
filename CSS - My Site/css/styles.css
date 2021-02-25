@@ -1,0 +1,192 @@
+/***********************TAGS SELECTORS****************************/
+
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+div {
+    height: auto;
+    margin: 0px;
+    
+}
+
+h1 {
+    color: #98acf8;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+   
+   
+}
+
+h2{
+    color: #98acf8;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #949cdf;
+}
+
+hr{
+    border-style: none;
+    border-top: 6px dotted;
+    color: #79a3b1;
+    height: 2px;
+    line-height: 2;
+    padding: 20px;
+    width: 5%;
+}
+
+p{
+    font-family: URW ChanceryL, cursive;
+}
+
+
+/***********************CLASS SELECTORS*****************************/
+
+.antenna-bars-img{
+    float: left;
+    height: auto;
+    padding: 30px;
+    width: 25%;
+}
+
+.bottom-cloud{
+    width: 10%;
+    position: absolute;
+    left: 18.75rem;
+    top: 20%;
+}
+
+.bottom-container{
+background-color: #bedcfa;
+height: 125px;
+padding: 20px;
+position: relative;
+line-height: 2;
+}
+
+.BUTTON {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 26px;
+   line-height: 26px;
+   color: #FFFFFF;
+   font-family: Georgia;
+   width: 190px;
+   font-size: 27px;
+   font-weight: 200;
+   padding: 19px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 10px;
+   margin-bottom: 5%;
+}
+
+.BUTTON:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright-text{
+    color: #6155a6;
+}
+
+.footer-link{
+    color: #949cdf;
+}
+
+.icon{
+    position: absolute;
+    left:3rem;
+    top: 3rem;
+}
+
+
+.laptop-img{
+    float: right;
+    height: auto;
+    padding: 30px;
+    width: 25%;
+}
+
+.middle-container{
+   position: relative;
+
+}
+.mountain{
+    width: 56.25rem;
+    height: auto;
+    position: absolute;
+    top: 12.5rem;
+    left: 25%;
+}
+
+.profile{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.profile-picture{
+   border-radius: 50%;
+   width: 40%;
+}
+
+.skills{
+    margin-bottom: 200px;
+}
+
+.skill-row{
+    line-height: 2;
+    margin: 100px auto;   
+    text-align: left;
+    width:50%;
+}
+
+ 
+.top-cloud{
+    width: 10%;
+    position: absolute;
+    right: 15rem;
+}
+
+.top-container{
+    background-color: #bedcfa;
+    height: 1000px;
+    padding-top: 5px;
+    position: relative; 
+}
+
+              
+/***********************ID SELECTORS********************************/
+
